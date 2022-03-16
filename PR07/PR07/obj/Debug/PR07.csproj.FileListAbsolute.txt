@@ -1,0 +1,8 @@
+C:\Temp\PCS-81\2 семетр\PR07\PR07\bin\Debug\PR07.exe.config
+C:\Temp\PCS-81\2 семетр\PR07\PR07\bin\Debug\PR07.exe
+C:\Temp\PCS-81\2 семетр\PR07\PR07\bin\Debug\PR07.pdb
+C:\Temp\PCS-81\2 семетр\PR07\PR07\obj\Debug\PR07.Properties.Resources.resources
+C:\Temp\PCS-81\2 семетр\PR07\PR07\obj\Debug\PR07.csproj.GenerateResource.Cache
+C:\Temp\PCS-81\2 семетр\PR07\PR07\obj\Debug\PR07.exe
+C:\Temp\PCS-81\2 семетр\PR07\PR07\obj\Debug\PR07.pdb
+C:\Temp\PCS-81\2 семетр\PR07\PR07\obj\Debug\PR07.Form1.resources

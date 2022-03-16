@@ -1,0 +1,7 @@
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\bin\Debug\UnitTestRSA.dll
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\bin\Debug\UnitTestRSA.pdb
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\obj\Debug\UnitTestRSA.csprojResolveAssemblyReference.cache
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\obj\Debug\UnitTestRSA.dll
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\obj\Debug\UnitTestRSA.pdb
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\bin\Debug\PR07.exe
+C:\Temp\PCS-81\2 семетр\PR07\UnitTestRSA\bin\Debug\PR07.pdb
